@@ -1,0 +1,32 @@
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.AssemblyReference.cache
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.SuggestedBindingRedirects.cache
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 3\Homework 3\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.AssemblyReference.cache
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.SuggestedBindingRedirects.cache
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 8\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.AssemblyReference.cache
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.frmScoreCalculator.resources
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+D:\School\CIS 160\Ch 8\EthanSchaetzly_Homework8_ScoreCalculator\ScoreCalculator8-1\ScoreCalculator\obj\Debug\ScoreCalculator.pdb
